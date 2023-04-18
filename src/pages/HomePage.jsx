@@ -9,7 +9,7 @@ function HomePage() {
         Tailwind, Please go back to sign up form.
       </p>
       <button className="p-2 px-4 m-4 transition duration-700 bg-cyan-200 rounded-xl hover:scale-125">
-        <Link to="/L-Odin6-Sign-up-Form">Sign Up</Link>
+        <Link to="/L-Odin6-SignUpForm">Sign Up</Link>
       </button>
     </div>
   );

@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="L-Odin6-Sign-up-Form/" element={<SignUpPage />} />
+        <Route exact path="L-Odin6-SignUpForm/" element={<SignUpPage />} />
         <Route path="home" element={<HomePage />} />
         <Route path="about" element={<HomePage />} />
         <Route path="contact" element={<HomePage />} />
